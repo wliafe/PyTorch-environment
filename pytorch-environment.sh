@@ -34,4 +34,4 @@ else
 fi
 
 echo "退出终端，重新进入终端后再次运行这个脚本。"
-pip install jupyter d2l torch torchvision
+pip install jupyter torch torchvision
